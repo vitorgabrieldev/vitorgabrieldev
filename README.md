@@ -30,15 +30,7 @@
 
 ```javascript
 
-  function ConsoleElements(elements)
-{
-    const textConsole1 = elements.innerHTML.split('');
-    elements.innerHTML = '',
-    textConsole1.forEach((letra, i) => {
-        setTimeout(() => {
-            elements.innerHTML += letra
-        }, 30 * i);
-    });
+  console.log('Hello, World!')
 
 }
 
