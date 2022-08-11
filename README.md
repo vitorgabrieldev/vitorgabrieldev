@@ -31,8 +31,6 @@
 
   console.log('Hello, World!')
 
-}
-
 ```
 
 ##
