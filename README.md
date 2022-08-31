@@ -31,7 +31,7 @@
 
 ```javascript
 
-  console.log('Hello, World!')
+  console.log('Apenas estudando....');
 
 ```
 
