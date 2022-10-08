@@ -31,7 +31,8 @@
 
 ```javascript
 
-  console.log('Apenas estudando....');
+  let name = 'Vitor';
+  alert(`I'm ${name}!`);
 
 ```
 
