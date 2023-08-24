@@ -1,5 +1,5 @@
 <div>
-   <img src="https://i.pinimg.com/564x/f7/b8/31/f7b8311218b00a73860791072e23e934.jpg">
+   <img src="https://raw.githubusercontent.com/vitorgabrieldev/imgs_readmes/main/Mask%20group%20(1).png">
 <div>
  
 #
