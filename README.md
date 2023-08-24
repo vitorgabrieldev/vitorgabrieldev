@@ -1,6 +1,14 @@
 <div>
    <img src="https://i.pinimg.com/564x/f7/b8/31/f7b8311218b00a73860791072e23e934.jpg">
 <div>
+ 
+#
+   
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vitorgabrieldev&theme=dracula&&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorgabrieldev&bg_color=030a0d&color=7b80f9&line=40e0d0&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # :iphone:Contact
 
@@ -20,7 +28,7 @@
   
 ##
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg);
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 <div style="display: inline_block"><br>
