@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e4ea3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9e4ea3&size=35&center=true&vCenter=true&width=1000&lines=I'm+a+Full-Stack+Developer;Skilled+in+JavaScript%2C+React%2C+and+PHP;Experienced+with+Zend%2C+Laravel%2C+and+Astro;Proficient+in+Java+and+C%23+for+Unity;Creating+layouts+for+web+and+mobile;Designing+intuitive+UI+experiences)](https://git.io/typing-svg)
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorgabrieldev&show_icons=false&count_private=true&hide_border=true&title_color=9e4ea3&icon_color=00bfbf&text_color=9e4ea3&bg_color=222222" alt="Vitorgabrieldev github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabrieldev&layout=compact&hide_border=true&title_color=9e4ea3&text_color=9e4ea3&bg_color=222222" />
