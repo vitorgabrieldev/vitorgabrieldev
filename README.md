@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42b883&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e4ea3&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42b883&size=35&center=true&vCenter=true&width=1000&lines=I'm+a+Full-Stack+Developer;Skilled+in+JavaScript%2C+React%2C+and+PHP;Experienced+with+Zend%2C+Laravel%2C+and+Astro;Proficient+in+Java+and+C%23+for+Unity;Creating+layouts+for+web+and+mobile;Designing+intuitive+UI+experiences)](https://git.io/typing-svg)
 
@@ -50,6 +50,6 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp; -->
 
-<br><br>
+<br><br><br><br><br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42b883&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e4ea3&height=120&section=footer"/>
