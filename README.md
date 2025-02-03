@@ -4,20 +4,20 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorgabrieldevk&show_icons=true&count_private=true&hide_border=true&title_color=42b883&icon_color=00bfbf&text_color=c9d1d9&bg_color=222222" alt="Vitorgabrieldevk github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabrieldevk&layout=compact&hide_border=true&title_color=42b883&text_color=00bfbf&bg_color=222222" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorgabrieldev&show_icons=true&count_private=true&hide_border=true&title_color=42b883&icon_color=00bfbf&text_color=c9d1d9&bg_color=222222" alt="Vitorgabrieldev github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabrieldev&layout=compact&hide_border=true&title_color=42b883&text_color=00bfbf&bg_color=222222" />
 </div>
 
 <br><br>
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorgabrieldevk&bg_color=222222&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorgabrieldev&bg_color=222222&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vitorgabrieldevk&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vitorgabrieldev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> -->
 
 <div align="center">  
-  <a href="https://www.linkedin.com/in/vitorgabrieldev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vitorgabrieldev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5543984873807" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="mailto:vitorgabrieldeoliveiradev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
