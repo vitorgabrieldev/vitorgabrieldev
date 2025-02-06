@@ -1,9 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e4ea3&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e4ea3&height=120&section=header"/> -->
+<img width=100% src="https://mittechreview.com.br/wp-content/uploads/2021/07/trbr_artigo_banner1_200721.jpg"/>
 
-<div align="center">  
+<!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorgabrieldev&show_icons=false&count_private=true&hide_border=true&title_color=9e4ea3&icon_color=00bfbf&text_color=9e4ea3&bg_color=222222" alt="Vitorgabrieldev github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabrieldev&layout=compact&hide_border=true&title_color=9e4ea3&text_color=9e4ea3&bg_color=222222" />
-</div>
+</div> -->
 
 <br><br>
 
@@ -31,9 +32,9 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp; -->
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">  -->
 
  
 <!-- ### Other Skills:
@@ -45,8 +46,8 @@
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp; -->
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 <br><br><br><br><br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e4ea3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e4ea3&height=120&section=footer"/>  -->
