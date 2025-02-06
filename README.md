@@ -1,5 +1,5 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e4ea3&height=120&section=header"/> -->
-<img width=100% src="https://mittechreview.com.br/wp-content/uploads/2021/07/trbr_artigo_banner1_200721.jpg"/>
+<img width=100% src="https://i.giphy.com/media/JWybLzXs7Hn0JKhSji/giphy.gif"/>
 
 <!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorgabrieldev&show_icons=false&count_private=true&hide_border=true&title_color=9e4ea3&icon_color=00bfbf&text_color=9e4ea3&bg_color=222222" alt="Vitorgabrieldev github stats" /> 
