@@ -5,9 +5,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorgabrieldev&show_icons=false&count_private=true&hide_border=true&title_color=9e4ea3&icon_color=00bfbf&text_color=9e4ea3&bg_color=222222" alt="Vitorgabrieldev github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabrieldev&layout=compact&hide_border=true&title_color=9e4ea3&text_color=9e4ea3&bg_color=222222" />
 </div> -->
-
-<br><br>
-
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorgabrieldev&bg_color=222222&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
