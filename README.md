@@ -21,6 +21,19 @@
   <a href="mailto:vitorgabrieldeoliveiradev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
 
+<div align="center">
+
+  <h2>My Code, My Philosophy</h2>
+  <p>Delivering value, not just code.</p>
+  <p>Passionate about solving complex problems.</p>
+  <p>Development with purpose.</p>
+  <br>
+  <strong>- vitorgabrieldev</strong>
+
+</div>
+
+
+
 <!-- ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
